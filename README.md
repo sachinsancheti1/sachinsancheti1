@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Sachin Sancheti
-- 📫 How to reach me: sachin.sancheti@gmail.com
+- 📫 How to reach me: <a href="mailto:sachin.sancheti@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/sanchetisachin/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 - 📫 How to physically reach me: I live in Coonoor, The Nilgiris, Tamil Nadu, India
 - 🔭 I Studied at: Coonoorian, studied at HIHS, SJC in Coonoor, CIRS in Coimbatore, NUS in Singapore (BBA with Statistics)
 - ⚡ Fun fact: Vegetarian, know a good number of people around here
@@ -28,3 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My GitHub Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=sachinsancheti1&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsancheti1&theme=dark" width="48%" >
+  
+## Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsancheti1&layout=compact)
+  
