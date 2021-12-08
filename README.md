@@ -39,4 +39,4 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsancheti1&layout=compact)
   
 ## What Netlify has to say
-![Netlify usage stats in 2021](https://your-year-on.netlify.com/sachinsancheti1/0f7864151465/)
+![Netlify usage stats in 2021](https://internal-api-screenshot.netlify.app/https%3A%2F%2Fyour-year-on.netlify.com%2Fsachinsancheti1%2F0f7864151465%2F/opengraph/_live/)
