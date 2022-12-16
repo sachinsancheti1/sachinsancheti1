@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 ## What Netlify has to say
 ![Netlify usage stats in 2021](https://internal-api-screenshot.netlify.app/https%3A%2F%2Fyour-year-on.netlify.com%2Fsachinsancheti1%2F0f7864151465%2F/opengraph/_live/)
 
-## what else Netlify has to say
-![Netlify usage stats in 2022](https://your-year-on.netlify.com/sachinsancheti1/0f7864151465/)
