@@ -10,6 +10,9 @@
 
 ### Recently learnt
 - basic html, css, js
+- React
+- Sveltekit
+- Familiarizing myself with CMS like Sanity and Hygraph
 - [11ty static site generator](https://11ty.dev)
 - [R](https://www.r-project.org/)
 - some linux commands for productivity
