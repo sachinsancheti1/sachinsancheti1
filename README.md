@@ -8,14 +8,11 @@
 - 😄 Pronouns: prudent, keen learner, emperical, shape dreamer
 - 👯 I’m not looking to collaborate with anyone, though you may feel free to view and use my code for good things
 
-### Recently learnt
-- basic html, css, js
-- React
-- Sveltekit
-- Familiarizing myself with CMS like Sanity and Hygraph
+### Proficient
+- [Sveltekit](https://svelte.dev/)
+- [Sanity](http://sanity.io/)
 - [11ty static site generator](https://11ty.dev)
 - [R](https://www.r-project.org/)
-- some linux commands for productivity
 
 <!--
 **sachinsancheti1/sachinsancheti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +38,9 @@ Here are some ideas to get you started:
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsancheti1&layout=compact)
   
-## What Netlify has to say
+## What Netlify has to say in 2021
 ![Netlify usage stats in 2021](https://internal-api-screenshot.netlify.app/https%3A%2F%2Fyour-year-on.netlify.com%2Fsachinsancheti1%2F0f7864151465%2F/opengraph/_live/)
+
+## What Netlify has to say in 2022
+![Netlify stats in 2022](/netlify2022.jpg)
 
